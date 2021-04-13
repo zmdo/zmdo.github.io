@@ -1,0 +1,41 @@
+#tomcar {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    float: left;
+}
+
+#main-canvas {
+    position:absolute;
+    box-sizing: border-box;
+    border:1px solid red;
+}
+
+#car-starting-point {
+    position:absolute;
+    width: 5px;
+    height: 5px;
+    background-color: blue;
+}
+
+#ranking-list {
+    width: 200px;
+    height: 500px;
+    font-size: 12px;
+    overFlow-y:scroll;
+    border:1px solid blue;
+    float: left;
+}
+
+#options {
+    font-size: 12px;
+    margin: 10px
+}
+
+.option-filed {
+    width: 100px;
+}
+
+#gene-options {
+    margin-top: 5px;
+}
