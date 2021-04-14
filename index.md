@@ -4,7 +4,7 @@
 I'm lazy and don't want to write anything.
 
 ### Do
-```Java
+```java
 // Angels bend down their wings to a seeker of knowledge. 
 Mankind mankind =  Universe.get("Earth").find(Mankind.class);
 Seeker seeker = mankind.peoples().findOne("seeker");
@@ -18,7 +18,7 @@ while (seeker.isAlive()) {
 1. [pogo ](https://github.com/zmdo/pogo) : Goland plug-in
 2. [pomaker](https://github.com/zmdo/pomaker) : Go code generator
 3. [tomcar.js](https://github.com/zmdo/tomcar.js) : Genetic algorithm
-4. [paper-stapler](https://github.com/zmdo/paper-stapler) : reading notes of papers
+4. [paper-stapler](https://github.com/zmdo/paper-stapler) : Reading notes of papers
 
 ### Demonstrations
 1. pogo : [Goland Plugin Marketplace -- pogo](https://plugins.jetbrains.com/plugin/16372-pogo)
